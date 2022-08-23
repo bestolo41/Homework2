@@ -17,7 +17,7 @@ public class Main {
         System.out.println("\nЗадание 2\n");
 
         dog = dog + 4;
-        cat = cat + 4;
+        cat = cat +4;
         paper = paper +4;
         System.out.println(dog);
         System.out.println(cat);
